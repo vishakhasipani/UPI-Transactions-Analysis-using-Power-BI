@@ -1,1 +1,3 @@
-# UPI-Transactions-Analysis-using-Power-BI
+Project Title: UPI Transaction Analysis using Power BI
+
+This project involved analyzing Unified Payments Interface (UPI) transaction data to identify trends, patterns, and insights related to digital payments in India. Using Power BI, I created interactive dashboards that showcased monthly transaction volumes, values, growth rates, and platform-wise performance (e.g., PhonePe, Google Pay, Paytm). The analysis helped visualize the rapid adoption of UPI and highlighted user preferences, peak transaction periods, and regional usage trends, enabling a better understanding of India’s digital payment ecosystem.
